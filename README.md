@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Harika
 
-<!--
-**HarikaPedavalli/HarikaPedavalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in MIS at University of Illinois Springfield  
+AI / Backend Systems Engineer Intern  
 
-Here are some ideas to get you started:
+## What I work on
+- Backend APIs (ASP.NET Core, Django)
+- AI workflows (RAG, document ingestion, retrieval)
+- Frontend-backend integration (React)
+- Debugging and data flow across systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Python, Java, SQL, JavaScript, C  
+ASP.NET Core, Django, React  
+SQL Server, PostgreSQL, MongoDB  
+AWS, Docker, Git  
+
+## Current focus
+- Backend systems
+- RAG pipelines
+- API reliability
